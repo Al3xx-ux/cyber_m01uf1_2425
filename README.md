@@ -54,13 +54,17 @@ margin:0;
 
 > [!NOTE]
 > Es una nota
->
+
+
 > >[!TIP]
 > Esto es un resaltado
->
+
+
+
 > [!WARNING]
 > Cuidado willirexxxxx
->
+
+
 > [!IMPORTANT]
 > Ojito no te olvides
 
