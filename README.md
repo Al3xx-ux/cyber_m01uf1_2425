@@ -16,6 +16,7 @@ Vamos a trabajar con estiles de fuente **madremia willi**
 
 
 ##Bloques markdown
+
 > Esto es una cita
 
 > Puede ser una linea o varias. Si la misma cita tiene varias lineas
@@ -27,6 +28,7 @@ pero también...
 
 
 ###Listados ordenados
+
 1.Primero
 2.Segundo
 3.Tercero
@@ -44,4 +46,22 @@ Esto es javascript 'console.log("hola")'
 '''css
 body{
 margin:0;
-}'''
+}
+'''
+
+
+
+
+> [!NOTE]
+> Es una nota
+>
+> >[!TIP]
+> Esto es un resaltado
+>
+> [!WARNING]
+> Cuidado willirexxxxx
+>
+> [!IMPORTANT]
+> Ojito no te olvides
+
+
