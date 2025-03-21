@@ -69,3 +69,7 @@ margin:0;
 
 Mira que esto es [un enlace](https://enti.cat) a la mejor web.
 
+
+##Imagenes
+[Logo de ejemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7W89BLYEDMtHMRCKpslzRSZi2FUkPWy7low&s)
+
