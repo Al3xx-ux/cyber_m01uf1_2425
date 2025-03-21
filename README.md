@@ -83,7 +83,8 @@ Mira que esto es [un enlace](https://enti.cat) a la mejor web.
 
 ## Lisas de tareas
 
--[] Pollo 
--[] Lechuga
--[] Agua
--[X] Mi BOMBOCLAT
+- [ ] Pollo
+- [ ] Lechuga
+- [ ] Agua
+- [x] Mi BOMBOCLAT
+
