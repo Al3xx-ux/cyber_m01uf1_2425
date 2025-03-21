@@ -67,5 +67,5 @@ margin:0;
 > Ojito no te olvides
 
 
-[Esto es un enlace](https://enti.cat)
+Mira que esto es [un enlace](https://enti.cat) a la mejor web.
 
