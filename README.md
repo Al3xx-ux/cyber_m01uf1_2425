@@ -27,7 +27,11 @@ pero también...
 >> Citas entero de citas :D
 
 
+
+
 ###Listados ordenados
+
+
 
 1.Primero
 2.Segundo
@@ -70,6 +74,7 @@ margin:0;
 Mira que esto es [un enlace](https://enti.cat) a la mejor web.
 
 
-##Imagenes
-[Logo de Markdown](https://enti.cat/wp-content/uploads/2022/09/logo_600x600px_fondocolor.png)
+## Imagenes
+
+![Logo de Markdown](https://enti.cat/wp-content/uploads/2022/09/logo_600x600px_fondocolor.png)
 
