@@ -71,5 +71,5 @@ Mira que esto es [un enlace](https://enti.cat) a la mejor web.
 
 
 ##Imagenes
-[Logo de ejemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7W89BLYEDMtHMRCKpslzRSZi2FUkPWy7low&s)
+[Logo de Markdown](https://enti.cat/wp-content/uploads/2022/09/logo_600x600px_fondocolor.png)
 
