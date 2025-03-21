@@ -56,17 +56,8 @@ margin:0;
 > Es una nota
 
 
-> >[!TIP]
+>[!TIP]
 > Esto es un resaltado
-
-
-
-
-
-
-
-
-
 
 > [!WARNING]
 > Cuidado willirexxxxx
