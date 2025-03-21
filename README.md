@@ -78,3 +78,12 @@ Mira que esto es [un enlace](https://enti.cat) a la mejor web.
 
 ![Logo de Markdown](https://enti.cat/wp-content/uploads/2022/09/logo_600x600px_fondocolor.png)
 
+
+
+
+## Lisas de tareas
+
+-[] Pollo 
+-[] Lechuga
+-[] Agua
+-[X] Mi BOMBOCLAT
